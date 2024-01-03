@@ -1,3 +1,2 @@
-# Display/Time 
-echo 'date'
-echo Welcome 'whoami' to $(hostname)
+echo `date`
+echo Welcome `whoami` to $(hostname)
